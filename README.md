@@ -2,7 +2,7 @@
 
 **The fastest course monitoring tool at Georgia Tech** (probably)
 
-Built in Brittain dining hall during freshman year in basically one day. The code quality reflects this, but it works.
+Built in Brittain dining hall during my freshman year in basically one day. The code quality reflects this, but it works.
 
 ## Getting started
 See `internal/app/coursewatch/cli/cli.go` for the main entry of the code.
