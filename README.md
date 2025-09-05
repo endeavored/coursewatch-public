@@ -4,12 +4,12 @@
 
 Built in Brittain dining hall during freshman year in basically one day. The code quality reflects this, but it works.
 
-## Getting started
+### Getting started
 See `internal/app/coursewatch/cli/cli.go` for the main entry of the code.
 
-## Credit
+### Credit
 Have fun and please credit me if used!
 
-## Disclaimer
+### Disclaimer
 Please do not abuse Georgia Tech's systems, this is for _educational purposes only_.
 
