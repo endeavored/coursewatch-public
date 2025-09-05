@@ -7,6 +7,9 @@ Built in Brittain dining hall during my freshman year in basically one day. The 
 ## Getting started
 See `internal/app/coursewatch/cli/cli.go` for the main entry of the code.
 
+This program will launch jobs that monitor enrollment or waitlist spots in specific classes and notify users via Slack.
+To set up, you must set the correct term in the code and attach your Slack webhooks and socket secrets.
+
 ## Credit
 Have fun and please credit me if used!
 
